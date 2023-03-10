@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Dez Lorenz R. Abatayo",
+            "Age": "21",
+            "Favorite_Quote": "What sets tommorow is what you do today."
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001101479@student.buksu.edu.ph"
+        }
+    ]
+}
